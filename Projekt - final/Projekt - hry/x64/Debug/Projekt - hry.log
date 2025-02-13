@@ -1,0 +1,5 @@
+﻿  Minesweeper.cpp
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Projekt - final\Projekt - hry\Minesweeper.cpp(107,15): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Projekt - final\Projekt - hry\Minesweeper.cpp(217,40): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Projekt - final\Projekt - hry\Minesweeper.cpp(217,33): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  Projekt - hry.vcxproj -> C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Projekt - final\x64\Debug\Projekt - hry.exe
