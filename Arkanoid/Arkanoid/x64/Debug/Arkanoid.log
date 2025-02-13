@@ -1,0 +1,9 @@
+﻿  Arkanoid.cpp
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(6,10): warning C4067: Po direktivě preprocesoru byly neočekávané tokeny – očekával se nový řádek.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(25,44): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(25,36): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(35,19): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(80,48): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(80,40): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\Arkanoid\Arkanoid.cpp(156,93): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+  Arkanoid.vcxproj -> C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\projekt\Arkanoid\x64\Debug\Arkanoid.exe
