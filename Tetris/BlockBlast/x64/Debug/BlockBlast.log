@@ -1,0 +1,10 @@
+﻿  BlockBlast.cpp
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(47,15): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(68,28): warning C4305: inicializování: zkrácení z: double na: float
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(127,21): warning C4305: =: zkrácení z: double na: float
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(197,37): warning C4305: =: zkrácení z: double na: float
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(208,41): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(208,33): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(217,47): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\BlockBlast\BlockBlast.cpp(217,34): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  BlockBlast.vcxproj -> C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Tetris\x64\Debug\BlockBlast.exe
