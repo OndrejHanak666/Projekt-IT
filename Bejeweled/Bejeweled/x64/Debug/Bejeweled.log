@@ -1,0 +1,7 @@
+﻿  Bejeweled.cpp
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Bejeweled\Bejeweled\Bejeweled.cpp(42,15): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Bejeweled\Bejeweled\Bejeweled.cpp(279,40): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Bejeweled\Bejeweled\Bejeweled.cpp(279,35): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Bejeweled\Bejeweled\Bejeweled.cpp(280,51): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Bejeweled\Bejeweled\Bejeweled.cpp(280,36): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  Bejeweled.vcxproj -> C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Bejeweled\x64\Debug\Bejeweled.exe
