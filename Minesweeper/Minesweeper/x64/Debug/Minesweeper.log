@@ -1,0 +1,6 @@
+﻿  Minesweeper.cpp
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Minesweeper\Minesweeper\Minesweeper.cpp(72,15): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Minesweeper\Minesweeper\Minesweeper.cpp(153,25): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Minesweeper\Minesweeper\Minesweeper.cpp(177,40): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Minesweeper\Minesweeper\Minesweeper.cpp(177,33): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  Minesweeper.vcxproj -> C:\Users\oh200\OneDrive - Univerzita obrany\škola\IT\3. semestr\C++\ve škole\Minesweeper\x64\Debug\Minesweeper.exe
